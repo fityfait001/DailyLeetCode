@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/fityfait001/DailyLeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
@@ -37,9 +38,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/fityfait001/DailyLeetCode/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/fityfait001/DailyLeetCode/tree/master/0622-design-circular-queue) |
+## Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
