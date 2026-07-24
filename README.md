@@ -73,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/fityfait001/DailyLeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
