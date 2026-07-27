@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/fityfait001/DailyLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/fityfait001/DailyLeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
@@ -105,8 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/fityfait001/DailyLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Iterator
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/fityfait001/DailyLeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/fityfait001/DailyLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
