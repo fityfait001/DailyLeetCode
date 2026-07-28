@@ -115,4 +115,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fityfait001/DailyLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [2928-distribute-candies-among-children-i](https://github.com/fityfait001/DailyLeetCode/tree/master/2928-distribute-candies-among-children-i) |
+## Combinatorics
+|  |
+| ------- |
+| [2928-distribute-candies-among-children-i](https://github.com/fityfait001/DailyLeetCode/tree/master/2928-distribute-candies-among-children-i) |
+## Enumeration
+|  |
+| ------- |
+| [2928-distribute-candies-among-children-i](https://github.com/fityfait001/DailyLeetCode/tree/master/2928-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
