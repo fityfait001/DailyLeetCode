@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/fityfait001/DailyLeetCode/tree/master/0147-insertion-sort-list) |
 | [0622-design-circular-queue](https://github.com/fityfait001/DailyLeetCode/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/fityfait001/DailyLeetCode/tree/master/0147-insertion-sort-list) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
