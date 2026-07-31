@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/fityfait001/DailyLeetCode/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/fityfait001/DailyLeetCode/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/fityfait001/DailyLeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1873-calculate-special-bonus](https://github.com/fityfait001/DailyLeetCode/tree/master/1873-calculate-special-bonus) |
 ## Hash Table
 |  |
