@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/fityfait001/DailyLeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/fityfait001/DailyLeetCode/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/fityfait001/DailyLeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3731-find-missing-elements](https://github.com/fityfait001/DailyLeetCode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/fityfait001/DailyLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fityfait001/DailyLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/fityfait001/DailyLeetCode/tree/master/3731-find-missing-elements) |
 ## Iterator
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/fityfait001/DailyLeetCode/tree/master/0147-insertion-sort-list) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/fityfait001/DailyLeetCode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
