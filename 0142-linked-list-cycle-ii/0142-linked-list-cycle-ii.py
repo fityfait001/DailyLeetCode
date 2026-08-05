@@ -14,3 +14,4 @@ class Solution:
             arr.add(curr)
             curr=curr.next
         return None
+        
