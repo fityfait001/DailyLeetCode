@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/fityfait001/DailyLeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/fityfait001/DailyLeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/fityfait001/DailyLeetCode/tree/master/0141-linked-list-cycle) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/fityfait001/DailyLeetCode/tree/master/0002-add-two-numbers) |
 | [0877-stone-game](https://github.com/fityfait001/DailyLeetCode/tree/master/0877-stone-game) |
 | [2928-distribute-candies-among-children-i](https://github.com/fityfait001/DailyLeetCode/tree/master/2928-distribute-candies-among-children-i) |
 | [2929-distribute-candies-among-children-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/2929-distribute-candies-among-children-ii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/fityfait001/DailyLeetCode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/fityfait001/DailyLeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
