@@ -8,30 +8,51 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+// class Solution {
+// public:
+//     ListNode* removeNthFromEnd(ListNode* head, int n) {
+//         if(head==NULL || head->next==NULL) return NULL;
+//         ListNode* temp=head;
+//         int count=0;
+//         while(temp!=NULL){
+//             count++;
+//             temp=temp->next;
+//         }
+//         if(count==n){
+//             return head->next;
+//         }
+//         int nxt=count-n;
+//         temp=head;
+//         int key=0;
+//         while(temp!=NULL){
+//             key++;
+//             if(key==nxt){
+//                 if(temp->next)
+//                 temp->next=temp->next->next;
+//             }
+//             temp=temp->next;  
+//         }
+//         return head;
+//     }
+// };
+
+
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        if(head==NULL || head->next==NULL) return NULL;
-        ListNode* temp=head;
-        int count=0;
-        while(temp!=NULL){
-            count++;
-            temp=temp->next;
+        ListNode* fast=head;
+        ListNode* slow=head;
+        for(int i=0;i<n;i++){
+            fast=fast->next;
         }
-        if(count==n){
+        if(fast==NULL){
             return head->next;
         }
-        int nxt=count-n;
-        temp=head;
-        int key=0;
-        while(temp!=NULL){
-            key++;
-            if(key==nxt){
-                if(temp->next)
-                temp->next=temp->next->next;
-            }
-            temp=temp->next;  
+        while(fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next;
         }
+        slow->next=slow->next->next;
         return head;
     }
 };
