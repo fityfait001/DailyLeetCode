@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/fityfait001/DailyLeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/fityfait001/DailyLeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/fityfait001/DailyLeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/fityfait001/DailyLeetCode/tree/master/0563-binary-tree-tilt) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/fityfait001/DailyLeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/fityfait001/DailyLeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
