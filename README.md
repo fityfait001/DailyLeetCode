@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/fityfait001/DailyLeetCode/tree/master/0002-add-two-numbers) |
 | [0877-stone-game](https://github.com/fityfait001/DailyLeetCode/tree/master/0877-stone-game) |
+| [2235-add-two-integers](https://github.com/fityfait001/DailyLeetCode/tree/master/2235-add-two-integers) |
 | [2928-distribute-candies-among-children-i](https://github.com/fityfait001/DailyLeetCode/tree/master/2928-distribute-candies-among-children-i) |
 | [2929-distribute-candies-among-children-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/2929-distribute-candies-among-children-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
