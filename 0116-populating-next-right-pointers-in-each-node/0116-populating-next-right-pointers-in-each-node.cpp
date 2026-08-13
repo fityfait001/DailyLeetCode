@@ -22,32 +22,47 @@ public:
         if(root==NULL || root->left==NULL){
             return root;
         }
-        queue<Node*>q;
-        q.push(root);
-        q.push(NULL);
-        Node* prev= NULL;
-        while(!q.empty()){
-            Node* curr=q.front();
-            q.pop();
-            if(curr==NULL){
-                if(q.size()==0)
-                break;
-                q.push(NULL);
+        Node* cur=root;
+        while(cur->left){
+            Node* temp=cur->left;
+            while(cur){
+                cur->left->next=cur->right;
+                if(cur->next)
+                cur->right->next=cur->next->left;
+
+                cur=cur->next;
             }
-            else{
-                if(curr->left!=NULL){
-                    q.push(curr->left);
-                }
-                if(curr->right!=NULL){
-                    q.push(curr->right);
-                }
-                if(prev!=NULL){
-                    prev->next=curr;
-                }
-            }
-            prev=curr;
+            cur=temp;
         }
         return root;
+
+
+        // queue<Node*>q;
+        // q.push(root);
+        // q.push(NULL);
+        // Node* prev= NULL;
+        // while(!q.empty()){
+        //     Node* curr=q.front();
+        //     q.pop();
+        //     if(curr==NULL){
+        //         if(q.size()==0)
+        //         break;
+        //         q.push(NULL);
+        //     }
+        //     else{
+        //         if(curr->left!=NULL){
+        //             q.push(curr->left);
+        //         }
+        //         if(curr->right!=NULL){
+        //             q.push(curr->right);
+        //         }
+        //         if(prev!=NULL){
+        //             prev->next=curr;
+        //         }
+        //     }
+        //     prev=curr;
+        // }
+        // return root;
             
         
         
