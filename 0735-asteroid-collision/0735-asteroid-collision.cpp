@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<int> asteroidCollision(vector<int>& arr) {
-        list<int>st;
-        vector<int> myVector;
+        vector<int>st;
+        
         int n=arr.size();
         for(int i=0;i<n;i++){
             if(arr[i]>0){
@@ -21,7 +21,7 @@ public:
             }
 
         }
-        myVector.assign(st.begin(), st.end());
-        return myVector;
+        
+        return st;
     }
 };
