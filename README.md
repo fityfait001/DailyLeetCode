@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/fityfait001/DailyLeetCode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/fityfait001/DailyLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/fityfait001/DailyLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/fityfait001/DailyLeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/fityfait001/DailyLeetCode/tree/master/0173-binary-search-tree-iterator) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/fityfait001/DailyLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/fityfait001/DailyLeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/fityfait001/DailyLeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0040-combination-sum-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/fityfait001/DailyLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fityfait001/DailyLeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/fityfait001/DailyLeetCode/tree/master/0622-design-circular-queue) |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/fityfait001/DailyLeetCode/tree/master/0563-binary-tree-tilt) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/fityfait001/DailyLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
