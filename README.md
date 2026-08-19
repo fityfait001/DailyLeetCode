@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/fityfait001/DailyLeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/fityfait001/DailyLeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/fityfait001/DailyLeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0341-flatten-nested-list-iterator](https://github.com/fityfait001/DailyLeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/fityfait001/DailyLeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/fityfait001/DailyLeetCode/tree/master/0735-asteroid-collision) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/fityfait001/DailyLeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/fityfait001/DailyLeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/fityfait001/DailyLeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/fityfait001/DailyLeetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/fityfait001/DailyLeetCode/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/fityfait001/DailyLeetCode/tree/master/0901-online-stock-span) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/fityfait001/DailyLeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0341-flatten-nested-list-iterator](https://github.com/fityfait001/DailyLeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/fityfait001/DailyLeetCode/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/fityfait001/DailyLeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Tree
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/fityfait001/DailyLeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/fityfait001/DailyLeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/fityfait001/DailyLeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/fityfait001/DailyLeetCode/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0617-merge-two-binary-trees) |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/fityfait001/DailyLeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/fityfait001/DailyLeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0563-binary-tree-tilt](https://github.com/fityfait001/DailyLeetCode/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fityfait001/DailyLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -224,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/fityfait001/DailyLeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/fityfait001/DailyLeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Sliding Window
 |  |
 | ------- |
