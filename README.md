@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/fityfait001/DailyLeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/fityfait001/DailyLeetCode/tree/master/0402-remove-k-digits) |
+| [0844-backspace-string-compare](https://github.com/fityfait001/DailyLeetCode/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/fityfait001/DailyLeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/fityfait001/DailyLeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/fityfait001/DailyLeetCode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/fityfait001/DailyLeetCode/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/fityfait001/DailyLeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/fityfait001/DailyLeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/fityfait001/DailyLeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/fityfait001/DailyLeetCode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/fityfait001/DailyLeetCode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/fityfait001/DailyLeetCode/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/fityfait001/DailyLeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Linked List
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/fityfait001/DailyLeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/fityfait001/DailyLeetCode/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fityfait001/DailyLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/fityfait001/DailyLeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/fityfait001/DailyLeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/fityfait001/DailyLeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
