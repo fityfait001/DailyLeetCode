@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/fityfait001/DailyLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/fityfait001/DailyLeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/fityfait001/DailyLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/fityfait001/DailyLeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fityfait001/DailyLeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0173-binary-search-tree-iterator](https://github.com/fityfait001/DailyLeetCode/tree/master/0173-binary-search-tree-iterator) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/fityfait001/DailyLeetCode/tree/master/0002-add-two-numbers) |
+| [0096-unique-binary-search-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0292-nim-game](https://github.com/fityfait001/DailyLeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/fityfait001/DailyLeetCode/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/fityfait001/DailyLeetCode/tree/master/2235-add-two-integers) |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0877-stone-game](https://github.com/fityfait001/DailyLeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/fityfait001/DailyLeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Minimax
