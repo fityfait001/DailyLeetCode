@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/fityfait001/DailyLeetCode/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/fityfait001/DailyLeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/fityfait001/DailyLeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/fityfait001/DailyLeetCode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/fityfait001/DailyLeetCode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/fityfait001/DailyLeetCode/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/fityfait001/DailyLeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
 |  |
 | ------- |
