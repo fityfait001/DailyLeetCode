@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0040-combination-sum-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/fityfait001/DailyLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/fityfait001/DailyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fityfait001/DailyLeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0503-next-greater-element-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0503-next-greater-element-ii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/fityfait001/DailyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/fityfait001/DailyLeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/fityfait001/DailyLeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Minimax
