@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0040-combination-sum-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/fityfait001/DailyLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/fityfait001/DailyLeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fityfait001/DailyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fityfait001/DailyLeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/fityfait001/DailyLeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/fityfait001/DailyLeetCode/tree/master/0147-insertion-sort-list) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/fityfait001/DailyLeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fityfait001/DailyLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/fityfait001/DailyLeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/fityfait001/DailyLeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/fityfait001/DailyLeetCode/tree/master/0160-intersection-of-two-linked-lists) |
