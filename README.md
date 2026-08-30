@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/fityfait001/DailyLeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/fityfait001/DailyLeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fityfait001/DailyLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0872-leaf-similar-trees) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/fityfait001/DailyLeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/fityfait001/DailyLeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/fityfait001/DailyLeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
