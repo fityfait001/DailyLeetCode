@@ -26,9 +26,6 @@ public:
        string s2="";
        inOrder(root1,s1);
        inOrder(root2,s2); 
-       if(s1==s2){
-        return true;
-       }
-       return false;
+       return s1==s2;
     }
 };
