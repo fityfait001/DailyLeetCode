@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/fityfait001/DailyLeetCode/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/fityfait001/DailyLeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/fityfait001/DailyLeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/fityfait001/DailyLeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/fityfait001/DailyLeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/fityfait001/DailyLeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/fityfait001/DailyLeetCode/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/fityfait001/DailyLeetCode/tree/master/2235-add-two-integers) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/fityfait001/DailyLeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2928-distribute-candies-among-children-i](https://github.com/fityfait001/DailyLeetCode/tree/master/2928-distribute-candies-among-children-i) |
 | [2929-distribute-candies-among-children-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/2929-distribute-candies-among-children-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/fityfait001/DailyLeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/fityfait001/DailyLeetCode/tree/master/0147-insertion-sort-list) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/fityfait001/DailyLeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/fityfait001/DailyLeetCode/tree/master/3731-find-missing-elements) |
@@ -428,4 +431,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/fityfait001/DailyLeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/fityfait001/DailyLeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Number Theory
+|  |
+| ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/fityfait001/DailyLeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/fityfait001/DailyLeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/fityfait001/DailyLeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->
