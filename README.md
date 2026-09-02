@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/fityfait001/DailyLeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/fityfait001/DailyLeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/fityfait001/DailyLeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fityfait001/DailyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/fityfait001/DailyLeetCode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 |  |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/fityfait001/DailyLeetCode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/fityfait001/DailyLeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Heap (Priority Queue)
 |  |
