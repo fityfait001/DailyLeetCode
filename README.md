@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/fityfait001/DailyLeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/fityfait001/DailyLeetCode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2929-distribute-candies-among-children-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/2929-distribute-candies-among-children-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Combinatorics
 |  |
 | ------- |
