@@ -9,7 +9,7 @@ public:
 
     vector<int> merge(const vector<int>& vec1, const vector<int>& vec2) {
         vector<int> result;
-        result.reserve(vec1.size() + vec2.size());
+       
         
         int i = 0, j = 0;
         while (i < vec1.size() && j < vec2.size()) {
