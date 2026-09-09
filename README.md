@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/fityfait001/DailyLeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1260-shift-2d-grid](https://github.com/fityfait001/DailyLeetCode/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/fityfait001/DailyLeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/fityfait001/DailyLeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/fityfait001/DailyLeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/fityfait001/DailyLeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/fityfait001/DailyLeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/fityfait001/DailyLeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fityfait001/DailyLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/fityfait001/DailyLeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/fityfait001/DailyLeetCode/tree/master/3731-find-missing-elements) |
 ## Iterator
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0292-nim-game](https://github.com/fityfait001/DailyLeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/fityfait001/DailyLeetCode/tree/master/0877-stone-game) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/fityfait001/DailyLeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2235-add-two-integers](https://github.com/fityfait001/DailyLeetCode/tree/master/2235-add-two-integers) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/fityfait001/DailyLeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2928-distribute-candies-among-children-i](https://github.com/fityfait001/DailyLeetCode/tree/master/2928-distribute-candies-among-children-i) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1814-count-nice-pairs-in-an-array](https://github.com/fityfait001/DailyLeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
