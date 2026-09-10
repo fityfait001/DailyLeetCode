@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/fityfait001/DailyLeetCode/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0231-power-of-two](https://github.com/fityfait001/DailyLeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/fityfait001/DailyLeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/fityfait001/DailyLeetCode/tree/master/0877-stone-game) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/fityfait001/DailyLeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/fityfait001/DailyLeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/fityfait001/DailyLeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/fityfait001/DailyLeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/fityfait001/DailyLeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/fityfait001/DailyLeetCode/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/fityfait001/DailyLeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/fityfait001/DailyLeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/fityfait001/DailyLeetCode/tree/master/0231-power-of-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
