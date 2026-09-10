@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/fityfait001/DailyLeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/fityfait001/DailyLeetCode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/fityfait001/DailyLeetCode/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/fityfait001/DailyLeetCode/tree/master/0877-stone-game) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/fityfait001/DailyLeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2235-add-two-integers](https://github.com/fityfait001/DailyLeetCode/tree/master/2235-add-two-integers) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/fityfait001/DailyLeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/fityfait001/DailyLeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/fityfait001/DailyLeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/fityfait001/DailyLeetCode/tree/master/0326-power-of-three) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
