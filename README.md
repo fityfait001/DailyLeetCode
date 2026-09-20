@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/fityfait001/DailyLeetCode/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/fityfait001/DailyLeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/fityfait001/DailyLeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2785-sort-vowels-in-a-string](https://github.com/fityfait001/DailyLeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2094-finding-3-digit-even-numbers](https://github.com/fityfait001/DailyLeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/fityfait001/DailyLeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2785-sort-vowels-in-a-string](https://github.com/fityfait001/DailyLeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/fityfait001/DailyLeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/fityfait001/DailyLeetCode/tree/master/3731-find-missing-elements) |
