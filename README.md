@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/fityfait001/DailyLeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fityfait001/DailyLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0131-palindrome-partitioning](https://github.com/fityfait001/DailyLeetCode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0140-word-break-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/fityfait001/DailyLeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/fityfait001/DailyLeetCode/tree/master/0402-remove-k-digits) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/fityfait001/DailyLeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fityfait001/DailyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0140-word-break-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fityfait001/DailyLeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0503-next-greater-element-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0503-next-greater-element-ii) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/fityfait001/DailyLeetCode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0140-word-break-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fityfait001/DailyLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/fityfait001/DailyLeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0140-word-break-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/fityfait001/DailyLeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/fityfait001/DailyLeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fityfait001/DailyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/fityfait001/DailyLeetCode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0140-word-break-ii) |
 | [0877-stone-game](https://github.com/fityfait001/DailyLeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/fityfait001/DailyLeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Minimax
@@ -549,4 +554,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/fityfait001/DailyLeetCode/tree/master/1791-find-center-of-star-graph) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
