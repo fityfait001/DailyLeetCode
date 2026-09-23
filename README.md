@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/fityfait001/DailyLeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/fityfait001/DailyLeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/fityfait001/DailyLeetCode/tree/master/1873-calculate-special-bonus) |
+| [3436-find-valid-emails](https://github.com/fityfait001/DailyLeetCode/tree/master/3436-find-valid-emails) |
 ## Hash Table
 |  |
 | ------- |
