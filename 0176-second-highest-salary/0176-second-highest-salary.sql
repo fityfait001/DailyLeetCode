@@ -1,0 +1,6 @@
+# Write your MySQL query statement below
+WITH ANS AS (
+    SELECT SALARY FROM 
+    EMPLOYEE WHERE SALARY!= (SELECT MAX(SALARY) FROM EMPLOYEE)
+)
+SELECT MAX(SALARY)AS SecondHighestSalary FROM ANS;
