@@ -543,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/fityfait001/DailyLeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/fityfait001/DailyLeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
