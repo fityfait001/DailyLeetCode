@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fityfait001/DailyLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/fityfait001/DailyLeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/fityfait001/DailyLeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fityfait001/DailyLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0131-palindrome-partitioning](https://github.com/fityfait001/DailyLeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0140-word-break-ii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/fityfait001/DailyLeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/fityfait001/DailyLeetCode/tree/master/0046-permutations) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/fityfait001/DailyLeetCode/tree/master/0022-generate-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fityfait001/DailyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/fityfait001/DailyLeetCode/tree/master/0131-palindrome-partitioning) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/fityfait001/DailyLeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/fityfait001/DailyLeetCode/tree/master/0022-generate-parentheses) |
 ## DP on Trees
 |  |
 | ------- |
