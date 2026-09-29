@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/fityfait001/DailyLeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/fityfait001/DailyLeetCode/tree/master/0046-permutations) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/fityfait001/DailyLeetCode/tree/master/0037-sudoku-solver) |
 | [1260-shift-2d-grid](https://github.com/fityfait001/DailyLeetCode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/fityfait001/DailyLeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/fityfait001/DailyLeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/fityfait001/DailyLeetCode/tree/master/0046-permutations) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fityfait001/DailyLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/fityfait001/DailyLeetCode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/fityfait001/DailyLeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0140-word-break-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/fityfait001/DailyLeetCode/tree/master/0141-linked-list-cycle) |
@@ -575,5 +579,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/fityfait001/DailyLeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/fityfait001/DailyLeetCode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/fityfait001/DailyLeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
