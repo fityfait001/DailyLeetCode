@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fityfait001/DailyLeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/fityfait001/DailyLeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0503-next-greater-element-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/fityfait001/DailyLeetCode/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/fityfait001/DailyLeetCode/tree/master/0622-design-circular-queue) |
 | [0733-flood-fill](https://github.com/fityfait001/DailyLeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/fityfait001/DailyLeetCode/tree/master/0735-asteroid-collision) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/fityfait001/DailyLeetCode/tree/master/0037-sudoku-solver) |
+| [0542-01-matrix](https://github.com/fityfait001/DailyLeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/fityfait001/DailyLeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/fityfait001/DailyLeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/fityfait001/DailyLeetCode/tree/master/1260-shift-2d-grid) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/fityfait001/DailyLeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/fityfait001/DailyLeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/fityfait001/DailyLeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0623-add-one-row-to-tree) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fityfait001/DailyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/fityfait001/DailyLeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0140-word-break-ii) |
+| [0542-01-matrix](https://github.com/fityfait001/DailyLeetCode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/fityfait001/DailyLeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/fityfait001/DailyLeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Minimax
