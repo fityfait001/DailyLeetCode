@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/fityfait001/DailyLeetCode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/fityfait001/DailyLeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/fityfait001/DailyLeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1020-number-of-enclaves](https://github.com/fityfait001/DailyLeetCode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/fityfait001/DailyLeetCode/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/fityfait001/DailyLeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/fityfait001/DailyLeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/fityfait001/DailyLeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/fityfait001/DailyLeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/fityfait001/DailyLeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/fityfait001/DailyLeetCode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/fityfait001/DailyLeetCode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fityfait001/DailyLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/fityfait001/DailyLeetCode/tree/master/0733-flood-fill) |
 | [0872-leaf-similar-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0872-leaf-similar-trees) |
+| [1020-number-of-enclaves](https://github.com/fityfait001/DailyLeetCode/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/fityfait001/DailyLeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/fityfait001/DailyLeetCode/tree/master/0733-flood-fill) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/fityfait001/DailyLeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/fityfait001/DailyLeetCode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/fityfait001/DailyLeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -615,5 +619,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/fityfait001/DailyLeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/fityfait001/DailyLeetCode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/fityfait001/DailyLeetCode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/fityfait001/DailyLeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
