@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/fityfait001/DailyLeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/fityfait001/DailyLeetCode/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/fityfait001/DailyLeetCode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/fityfait001/DailyLeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/fityfait001/DailyLeetCode/tree/master/0542-01-matrix) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/fityfait001/DailyLeetCode/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/fityfait001/DailyLeetCode/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/fityfait001/DailyLeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/fityfait001/DailyLeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/fityfait001/DailyLeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/fityfait001/DailyLeetCode/tree/master/0342-power-of-four) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fityfait001/DailyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/fityfait001/DailyLeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/fityfait001/DailyLeetCode/tree/master/0140-word-break-ii) |
+| [0279-perfect-squares](https://github.com/fityfait001/DailyLeetCode/tree/master/0279-perfect-squares) |
 | [0542-01-matrix](https://github.com/fityfait001/DailyLeetCode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/fityfait001/DailyLeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/fityfait001/DailyLeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -621,4 +624,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/fityfait001/DailyLeetCode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/fityfait001/DailyLeetCode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/fityfait001/DailyLeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/fityfait001/DailyLeetCode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/fityfait001/DailyLeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
