@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fityfait001/DailyLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/fityfait001/DailyLeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/fityfait001/DailyLeetCode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/fityfait001/DailyLeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0872-leaf-similar-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0872-leaf-similar-trees) |
 | [1020-number-of-enclaves](https://github.com/fityfait001/DailyLeetCode/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/fityfait001/DailyLeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fityfait001/DailyLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/fityfait001/DailyLeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/fityfait001/DailyLeetCode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/fityfait001/DailyLeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/fityfait001/DailyLeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/fityfait001/DailyLeetCode/tree/master/1020-number-of-enclaves) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/fityfait001/DailyLeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/fityfait001/DailyLeetCode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/fityfait001/DailyLeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1791-find-center-of-star-graph](https://github.com/fityfait001/DailyLeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/fityfait001/DailyLeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Trie
@@ -644,4 +647,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/fityfait001/DailyLeetCode/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/fityfait001/DailyLeetCode/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/fityfait001/DailyLeetCode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/fityfait001/DailyLeetCode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
