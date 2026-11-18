@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/fityfait001/DailyLeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fityfait001/DailyLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/fityfait001/DailyLeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/fityfait001/DailyLeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/fityfait001/DailyLeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/fityfait001/DailyLeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0872-leaf-similar-trees](https://github.com/fityfait001/DailyLeetCode/tree/master/0872-leaf-similar-trees) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/fityfait001/DailyLeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/fityfait001/DailyLeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/fityfait001/DailyLeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/fityfait001/DailyLeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/fityfait001/DailyLeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/fityfait001/DailyLeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/fityfait001/DailyLeetCode/tree/master/0743-network-delay-time) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/fityfait001/DailyLeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Number Theory
 |  |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/fityfait001/DailyLeetCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/fityfait001/DailyLeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/fityfait001/DailyLeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/fityfait001/DailyLeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1791-find-center-of-star-graph](https://github.com/fityfait001/DailyLeetCode/tree/master/1791-find-center-of-star-graph) |
@@ -665,4 +669,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/fityfait001/DailyLeetCode/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/fityfait001/DailyLeetCode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/fityfait001/DailyLeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
